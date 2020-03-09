@@ -37,6 +37,7 @@ export class ProductService {
 
 
   createProduct(product: any){
+    product.categoryId = 1;
     const headers = new HttpHeaders({ 'Content-Type': 'application/json' });
     return this.http.post(this.productsApiUrl, product , {headers})
       .pipe(
