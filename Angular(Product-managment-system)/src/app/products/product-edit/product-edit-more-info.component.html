@@ -1,0 +1,110 @@
+<div class="card-body"
+     *ngIf="selectedCategory">
+  <form novalidate>
+    <fieldset>
+      <legend>Product Search Tags</legend>
+
+      <div class="form-group row">
+
+        <label class="col-md-2 col-form-label"
+               for="categoryId">Category</label>
+        <div class="col-md-8">
+          <select id="categoryId"
+                  class="form-control pl-form-control"
+                  #categoryVar="ngModel"
+                  [(ngModel)]="selectedCategory"
+                  name="category"
+                  (change)="selectedCategoryName()">
+
+            <option *ngFor="let category of categories;let i = index"
+                    [ngValue]="category.categoryName">
+              {{category.categoryName}}
+            </option>
+          </select>
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label class="col-md-2 col-form-label"
+               for="price">Price</label>
+        <div class="col-md-8">
+          <input class="form-control"
+                 id="price"
+                 type="number"
+                 placeholder="Price (required)"
+                 required
+                 [(ngModel)]="product.price"
+                 name="price"
+                 #priceVar="ngModel"
+                 [ngClass]="{'is-invalid': (priceVar.touched ||
+                                            priceVar.dirty || 
+                                            product.id !== 0) &&
+                                            !priceVar.valid }" />
+          <span class="invalid-feedback">
+            <span *ngIf="priceVar.errors">
+              You must enter price
+            </span>
+          </span>
+        </div>
+      </div>
+
+      <div class="form-group row"
+           *ngIf="product.imageUrl">
+        <label class="col-md-2 col-form-label"
+               for="price">Photo</label>
+        <div class="col-md-8">
+          <img class="productImage center-block img-responsive"
+               [style.height.px]="150"
+               [style.margin.px]="2"
+               [src]="createImgPath(product.imageUrl)"
+               [title]="product.productName">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label class="col-md-2 col-form-label"
+               for="price">{{ product.imageUrl ? 'Change' : 'Upload'}} photo</label>
+        <div class="col-md-8">
+          <label>Click on the button to {{ product.imageUrl ? 'change' : 'upload'}} the picture for the product</label>
+          <input type="file"
+                 #file
+                 placeholder="Choose file"
+                 (change)="uploadFile(file.files)"
+                 style="display:none;"
+                 multiple />
+          <button type="button"
+                  class="uploadFile"
+                  (click)="file.click()">Upload File {{ product.imageUrl ? 'to change the photo' : ''}}</button>
+        </div>
+        <div class="col-md-4">
+          <span class="upload"
+                *ngIf="progress > 0">
+            {{progress}}%
+          </span>
+          <span class="upload"
+                *ngIf="message">
+            {{message}}
+          </span>
+        </div>
+      </div>
+
+
+      <div class="form-group row">
+        <label class="col-md-2 col-form-label"
+               for="birthday">Release on:</label>
+        <div class="col-md-8">
+          <input class="releaseDateInput" (change)="getReleaseDate($event)"
+          [ngModel] ="productReleaseDate | date:'yyyy-MM-dd'" (ngModelChange)="productReleaseDate = $event"
+                 type="date"
+                 id="birthday"
+                 name="birthday">
+        </div>
+      </div>
+
+    </fieldset>
+  </form>
+</div>
+
+<div class="alert alert-danger"
+     *ngIf="errorMessage">{{errorMessage}}
+</div>

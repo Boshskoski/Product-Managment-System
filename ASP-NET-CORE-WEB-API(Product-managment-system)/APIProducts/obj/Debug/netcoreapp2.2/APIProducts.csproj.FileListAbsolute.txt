@@ -1,0 +1,42 @@
+C:\Users\andrej.boshkoski\Desktop\ROUTING\SIMULATING\APIProducts\APIProducts\bin\Debug\netcoreapp2.2\APIProducts.deps.json
+C:\Users\andrej.boshkoski\Desktop\ROUTING\SIMULATING\APIProducts\APIProducts\bin\Debug\netcoreapp2.2\APIProducts.runtimeconfig.json
+C:\Users\andrej.boshkoski\Desktop\ROUTING\SIMULATING\APIProducts\APIProducts\bin\Debug\netcoreapp2.2\APIProducts.runtimeconfig.dev.json
+C:\Users\andrej.boshkoski\Desktop\ROUTING\SIMULATING\APIProducts\APIProducts\bin\Debug\netcoreapp2.2\APIProducts.dll
+C:\Users\andrej.boshkoski\Desktop\ROUTING\SIMULATING\APIProducts\APIProducts\bin\Debug\netcoreapp2.2\APIProducts.pdb
+C:\Users\andrej.boshkoski\Desktop\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.csprojAssemblyReference.cache
+C:\Users\andrej.boshkoski\Desktop\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.RazorAssemblyInfo.cache
+C:\Users\andrej.boshkoski\Desktop\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.RazorAssemblyInfo.cs
+C:\Users\andrej.boshkoski\Desktop\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.AssemblyInfoInputs.cache
+C:\Users\andrej.boshkoski\Desktop\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.AssemblyInfo.cs
+C:\Users\andrej.boshkoski\Desktop\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.RazorTargetAssemblyInfo.cache
+C:\Users\andrej.boshkoski\Desktop\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.dll
+C:\Users\andrej.boshkoski\Desktop\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.pdb
+C:\Users\andrej.boshkoski\Desktop\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.csproj.CoreCompileInputs.cache
+C:\Users\andrej.boshkoski\Desktop\ANGULAR PRACTICE PROJECTS\ROUTING\SIMULATING\APIProducts\APIProducts\bin\Debug\netcoreapp2.2\APIProducts.deps.json
+C:\Users\andrej.boshkoski\Desktop\ANGULAR PRACTICE PROJECTS\ROUTING\SIMULATING\APIProducts\APIProducts\bin\Debug\netcoreapp2.2\APIProducts.runtimeconfig.json
+C:\Users\andrej.boshkoski\Desktop\ANGULAR PRACTICE PROJECTS\ROUTING\SIMULATING\APIProducts\APIProducts\bin\Debug\netcoreapp2.2\APIProducts.runtimeconfig.dev.json
+C:\Users\andrej.boshkoski\Desktop\ANGULAR PRACTICE PROJECTS\ROUTING\SIMULATING\APIProducts\APIProducts\bin\Debug\netcoreapp2.2\APIProducts.dll
+C:\Users\andrej.boshkoski\Desktop\ANGULAR PRACTICE PROJECTS\ROUTING\SIMULATING\APIProducts\APIProducts\bin\Debug\netcoreapp2.2\APIProducts.pdb
+C:\Users\andrej.boshkoski\Desktop\ANGULAR PRACTICE PROJECTS\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.csprojAssemblyReference.cache
+C:\Users\andrej.boshkoski\Desktop\ANGULAR PRACTICE PROJECTS\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.csproj.CoreCompileInputs.cache
+C:\Users\andrej.boshkoski\Desktop\ANGULAR PRACTICE PROJECTS\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.RazorAssemblyInfo.cache
+C:\Users\andrej.boshkoski\Desktop\ANGULAR PRACTICE PROJECTS\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.RazorAssemblyInfo.cs
+C:\Users\andrej.boshkoski\Desktop\ANGULAR PRACTICE PROJECTS\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.AssemblyInfoInputs.cache
+C:\Users\andrej.boshkoski\Desktop\ANGULAR PRACTICE PROJECTS\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.AssemblyInfo.cs
+C:\Users\andrej.boshkoski\Desktop\ANGULAR PRACTICE PROJECTS\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.RazorTargetAssemblyInfo.cache
+C:\Users\andrej.boshkoski\Desktop\ANGULAR PRACTICE PROJECTS\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.dll
+C:\Users\andrej.boshkoski\Desktop\ANGULAR PRACTICE PROJECTS\ROUTING\SIMULATING\APIProducts\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.pdb
+C:\Users\andrej.boshkoski\Desktop\New folder\ASP-NET-CORE-WEB-API(Product-managment-system)\APIProducts\bin\Debug\netcoreapp2.2\APIProducts.deps.json
+C:\Users\andrej.boshkoski\Desktop\New folder\ASP-NET-CORE-WEB-API(Product-managment-system)\APIProducts\bin\Debug\netcoreapp2.2\APIProducts.runtimeconfig.json
+C:\Users\andrej.boshkoski\Desktop\New folder\ASP-NET-CORE-WEB-API(Product-managment-system)\APIProducts\bin\Debug\netcoreapp2.2\APIProducts.runtimeconfig.dev.json
+C:\Users\andrej.boshkoski\Desktop\New folder\ASP-NET-CORE-WEB-API(Product-managment-system)\APIProducts\bin\Debug\netcoreapp2.2\APIProducts.dll
+C:\Users\andrej.boshkoski\Desktop\New folder\ASP-NET-CORE-WEB-API(Product-managment-system)\APIProducts\bin\Debug\netcoreapp2.2\APIProducts.pdb
+C:\Users\andrej.boshkoski\Desktop\New folder\ASP-NET-CORE-WEB-API(Product-managment-system)\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.csprojAssemblyReference.cache
+C:\Users\andrej.boshkoski\Desktop\New folder\ASP-NET-CORE-WEB-API(Product-managment-system)\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.csproj.CoreCompileInputs.cache
+C:\Users\andrej.boshkoski\Desktop\New folder\ASP-NET-CORE-WEB-API(Product-managment-system)\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.RazorAssemblyInfo.cache
+C:\Users\andrej.boshkoski\Desktop\New folder\ASP-NET-CORE-WEB-API(Product-managment-system)\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.RazorAssemblyInfo.cs
+C:\Users\andrej.boshkoski\Desktop\New folder\ASP-NET-CORE-WEB-API(Product-managment-system)\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.AssemblyInfoInputs.cache
+C:\Users\andrej.boshkoski\Desktop\New folder\ASP-NET-CORE-WEB-API(Product-managment-system)\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.AssemblyInfo.cs
+C:\Users\andrej.boshkoski\Desktop\New folder\ASP-NET-CORE-WEB-API(Product-managment-system)\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.RazorTargetAssemblyInfo.cache
+C:\Users\andrej.boshkoski\Desktop\New folder\ASP-NET-CORE-WEB-API(Product-managment-system)\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.dll
+C:\Users\andrej.boshkoski\Desktop\New folder\ASP-NET-CORE-WEB-API(Product-managment-system)\APIProducts\obj\Debug\netcoreapp2.2\APIProducts.pdb

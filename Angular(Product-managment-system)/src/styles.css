@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+/* "node_modules/ngx-toastr/toastr.css" */
+@import "~ngx-toastr/toastr.css";
+
+div.card-header {
+ font-size: large;
+}
+
+div.card {
+  margin-top: 10px
+}
+
+.table {
+  margin-top: 10px
+}
+
+.card
+{
+  width: 100% !important;
+}
+
+#toast-container > div {
+  opacity:1;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
